@@ -7,5 +7,8 @@ public class practiceOne {
 		System.out.println(name);
 
 	}
+	public void remoteMethod(){
+		//this is from remote metod
 
+}
 }
